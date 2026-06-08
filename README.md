@@ -53,6 +53,7 @@ This project was developed as part of the *Data Mining* course at UB-UPC (2025),
 ---
 
 ## Repository Structure
+```
 spotify-popularity/
 ├── README.md
 ├── data/
@@ -80,7 +81,7 @@ spotify-popularity/
 │   └── (model predictions as .csv)
 └── report/
 └── Report_definitivo.pptx
-
+```
 ---
 
 ## Results
