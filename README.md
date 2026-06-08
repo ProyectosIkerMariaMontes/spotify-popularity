@@ -89,10 +89,10 @@ spotify-popularity/
 | Model | Kaggle MAPE |
 |-------|-------------|
 | KNN (k=1) | **Best** (1st place) |
-| Random Forest | — |
-| XGBoost | — |
-| SVM | — |
-| GLM | — |
+| Random Forest | 2nd place |
+| XGBoost | Good work |
+| SVM | Good work |
+| GLM | Bad work |
 | Naive Bayes | Not competitive |
 
 ---
