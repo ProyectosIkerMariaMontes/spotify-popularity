@@ -5,8 +5,6 @@ Kaggle competition | Predicting Spotify song popularity from audio features usin
 
 Predicting the popularity of Spotify songs from audio features using multiple regression and classification models in R.
 
-> **🏆 Ranked 1st on the Kaggle leaderboard at time of submission.**
-
 > **Note:** Code and internal comments are in Spanish/Catalan, as required by the course. This README is in English.
 
 ---
